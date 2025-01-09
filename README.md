@@ -20,7 +20,7 @@ And shout-out to my school **Continental Language School** :D
 
 ## 🆕 NEW!
 
-I highly recommend checking out my friend's impressive Gemini AI-powered Roblox game, "[Project Gemini](https://www.roblox.com/games/77153392203862/Project-Gemini)", as it showcases some amazing AI interaction.
+I highly recommend checking out my & friend's impressive Gemini AI-powered Roblox game, "[Project Gemini](https://www.roblox.com/games/77153392203862/Project-Gemini)", as it showcases some amazing AI interaction.
 
 ![image](https://github.com/user-attachments/assets/b476652d-7fe5-449b-9b7f-76ac68dfabff)
 
